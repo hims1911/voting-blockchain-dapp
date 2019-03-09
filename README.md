@@ -2,8 +2,6 @@
 
 A quick tutorial to get your first DApp up and running without any frameworks!
 
-By Ben Stewart <br/>
-Last Updated:2/18/2018 <br/>
 
 Install Dependencies:
 1. ganache-cli ```npm install ganache-cli web3@0.20.2```
